@@ -22,7 +22,7 @@ To run the DApp locally, follow these steps:
 
 ### Code Structure
 - **JavaScript (React)**:
-  - The main application logic is implemented in `HomePage.js`.
+  - The main application logic and front-end codes are implemented in `index.js`.
   - React hooks such as `useState` and `useEffect` are used to manage component state and side effects.
   - Ethereum interactions are facilitated using the `ethers` library.
 - **Smart Contract (Solidity)**:
